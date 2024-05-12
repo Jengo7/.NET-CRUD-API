@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eP1m16wz501j0ZUbME/ZM1N07R9xlHSWJTFbNf4Gy0IUvfphLg5naohHDjUCzzL8sAHA36NzBW1HJ7m9njjs/A==",
+  "dgSpecHash": "07ScVztXFTY=",
   "success": true,
-  "projectFilePath": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj",
+  "projectFilePath": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\git\\.NET-CRUD-API\\backend\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jengo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Jengo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj",
+      "projectUniqueName": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\git\\.NET-CRUD-API\\backend\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj",
       "projectName": "DOT NET-CRUD API",
-      "projectPath": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj",
+      "projectPath": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\git\\.NET-CRUD-API\\backend\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj",
       "packagesPath": "C:\\Users\\Jengo\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\DOT NET-CRUD API\\obj\\",
+      "outputPath": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\git\\.NET-CRUD-API\\backend\\DOT NET-CRUD API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jengo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -496,7 +496,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
