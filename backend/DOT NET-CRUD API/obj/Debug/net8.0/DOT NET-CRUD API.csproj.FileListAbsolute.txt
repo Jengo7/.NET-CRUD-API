@@ -1,0 +1,33 @@
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\appsettings.Development.json
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\appsettings.json
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\DOT NET-CRUD API.exe
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\DOT NET-CRUD API.deps.json
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\DOT NET-CRUD API.runtimeconfig.json
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\DOT NET-CRUD API.dll
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\DOT NET-CRUD API.pdb
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.csproj.AssemblyReference.cache
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.AssemblyInfoInputs.cache
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.AssemblyInfo.cs
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.sourcelink.json
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\staticwebassets\msbuild.DOT NET-CRUD API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\staticwebassets\msbuild.build.DOT NET-CRUD API.props
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DOT NET-CRUD API.props
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DOT NET-CRUD API.props
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\scopedcss\bundle\DOT NET-CRUD API.styles.css
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-.E3638D96.Up2Date
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.dll
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\refint\DOT NET-CRUD API.dll
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.pdb
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.genruntimeconfig.cache
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\ref\DOT NET-CRUD API.dll

@@ -17,3 +17,4 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
