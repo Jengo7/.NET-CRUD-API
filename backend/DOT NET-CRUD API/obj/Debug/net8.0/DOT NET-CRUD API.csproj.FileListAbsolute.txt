@@ -31,3 +31,5 @@ D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CR
 D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.pdb
 D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\DOT NET-CRUD API.genruntimeconfig.cache
 D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\obj\Debug\net8.0\ref\DOT NET-CRUD API.dll
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming\C#\Projects\DOT NET-CRUD API\git\.NET-CRUD-API\backend\DOT NET-CRUD API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll

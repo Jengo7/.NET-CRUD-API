@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DOT NET-CRUD API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fcd6efd0513580d1b5be7ea35e389101a8ace7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+037484d4a71d1b94a49424f5fe0f6b0cb8b61074")]
 [assembly: System.Reflection.AssemblyProductAttribute("DOT NET-CRUD API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DOT NET-CRUD API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
