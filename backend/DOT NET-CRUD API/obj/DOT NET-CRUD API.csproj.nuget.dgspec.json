@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj": {}
+    "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\git\\.NET-CRUD-API\\backend\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj": {
+    "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\git\\.NET-CRUD-API\\backend\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\git\\.NET-CRUD-API\\backend\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj",
         "projectName": "DOT NET-CRUD API",
-        "projectPath": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj",
+        "projectPath": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\git\\.NET-CRUD-API\\backend\\DOT NET-CRUD API\\DOT NET-CRUD API.csproj",
         "packagesPath": "C:\\Users\\Jengo\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\DOT NET-CRUD API\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\Projects\\DOT NET-CRUD API\\git\\.NET-CRUD-API\\backend\\DOT NET-CRUD API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jengo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -70,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.3.24204.13/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
