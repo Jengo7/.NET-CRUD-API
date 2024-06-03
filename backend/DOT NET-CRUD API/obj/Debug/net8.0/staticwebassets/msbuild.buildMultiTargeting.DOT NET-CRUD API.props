@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\DOT NET-CRUD API.props" />
-</Project>
