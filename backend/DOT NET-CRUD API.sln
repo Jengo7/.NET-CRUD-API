@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOT NET-CRUD API", "DOT NET-CRUD API\DOT NET-CRUD API.csproj", "{087DA0D3-1E6A-40B5-94F7-AE27CAF45CC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DOT NET-CRUD API", "DOT NET-CRUD API\DOT NET-CRUD API.csproj", "{087DA0D3-1E6A-40B5-94F7-AE27CAF45CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOT NET-CRUD API.Tests", "DOT NET-CRUD API.Tests\DOT NET-CRUD API.Tests.csproj", "{F57EA194-79E7-49F0-A752-125E04A1E29E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{087DA0D3-1E6A-40B5-94F7-AE27CAF45CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{087DA0D3-1E6A-40B5-94F7-AE27CAF45CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{087DA0D3-1E6A-40B5-94F7-AE27CAF45CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57EA194-79E7-49F0-A752-125E04A1E29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57EA194-79E7-49F0-A752-125E04A1E29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57EA194-79E7-49F0-A752-125E04A1E29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57EA194-79E7-49F0-A752-125E04A1E29E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
